@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../py35/mindwavemobilepy35/mindwavemobile/.idea/mindwavemobile.iml" filepath="$PROJECT_DIR$/../py35/mindwavemobilepy35/mindwavemobile/.idea/mindwavemobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/visualizing_eeg.iml" filepath="$PROJECT_DIR$/.idea/visualizing_eeg.iml" />
+    </modules>
+  </component>
+</project>
